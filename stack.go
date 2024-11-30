@@ -1,4 +1,4 @@
-package main
+package stack
 
 // Item represents an item of the stack
 type Item[T any] struct {

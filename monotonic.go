@@ -1,4 +1,4 @@
-package main
+package stack
 
 // Number defines the allowed values for the Monotonic Stack
 type Number interface {
